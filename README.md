@@ -1,4 +1,10 @@
-jsoneditoronline
+"jsoneditoronline" has been renamed to "jsoneditor"
 ================
 
-A web-based tool to view, edit and format JSON
+Please go to the new repository: https://github.com/josdejong/jsoneditor
+
+Sorry for the inconvenience...
+
+Jos
+
+2013-05-03
