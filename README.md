@@ -1,4 +1,4 @@
-"jsoneditoronline" has been renamed to "jsoneditor"
+"jsoneditoronline" has been moved to "jsoneditor"
 ================
 
 Please go to the new repository: https://github.com/josdejong/jsoneditor
