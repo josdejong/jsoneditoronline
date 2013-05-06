@@ -1,10 +1,3 @@
-"jsoneditoronline" has been moved to "jsoneditor"
-================
+# NOTICE: THIS REPOSITORY HAS BEEN MOVED 
 
-Please go to the new repository: https://github.com/josdejong/jsoneditor
-
-Sorry for the inconvenience...
-
-Jos
-
-2013-05-03
+# New Project Homepage: https://github.com/josdejong/jsoneditor
